@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @revanth24052002
+- 👋 Hi, I’m Revanth Sai Marella
 - 👀 I’m interested in Machine Learning , AI , Web Development
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on the Project of the topics mentioned above.
